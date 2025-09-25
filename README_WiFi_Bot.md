@@ -56,7 +56,7 @@
 
 ```bash
 # Clonar el repositorio (o descargar archivos)
-cd /path/to/wifi-admin-bot
+cd /path/to/WIFI_BOT
 
 # Instalar dependencias del sistema (Ubuntu/Debian)
 sudo apt-get update
