@@ -57,8 +57,8 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/wifi-security-auditor.git
-cd wifi-security-auditor
+git clone https://github.com/Alvaro-Manzo/WIFI_BOT.git
+cd WIFI_BOT
 
 # Install dependencies
 pip3 install -r requirements.txt
@@ -227,8 +227,8 @@ We welcome contributions! Please see our contributing guidelines:
 
 ```bash
 # Clone for development
-git clone https://github.com/yourusername/wifi-security-auditor.git
-cd wifi-security-auditor
+git clone https://github.com/Alvaro-Manzo/WIFI_BOT.git
+cd WIFI_BOT
 
 # Create virtual environment
 python3 -m venv venv
@@ -262,7 +262,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```
 MIT License
 
-Copyright (c) 2025 WiFi Security Auditor Contributors
+Copyright (c) 2025 ALVARO MANZO
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -285,7 +285,7 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 - 📖 Check the [documentation](docs/)
 - 🐛 Report bugs via [GitHub Issues](../../issues)
 - 💬 Join our [community discussions](../../discussions)
-- 📧 Contact: security.auditor@example.com
+- 📧 Contact: jogobonito029@gmail.com
 
 ### Professional Support
 For enterprise deployments and professional consulting:
